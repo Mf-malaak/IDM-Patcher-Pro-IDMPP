@@ -27,7 +27,7 @@ This program, IDM Patcher, provides a simple interface to configure Internet Dow
 - **Dependencies:** `tkinter`, `winreg`
 - **Version:** 1.0
 
-For more details and updates, visit [Link 3: www.example3.com](https://github.com/Mf-malaak)).
+For more details and updates, visit [About](https://github.com/Mf-malaak)).
 
 ---
 
