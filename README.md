@@ -1,6 +1,4 @@
-### README
-
-#### IDM Patcher
+# IDM Patcher
 
 This program, IDM Patcher, provides a simple interface to configure Internet Download Manager (IDM) by managing necessary keys and values within the system registry. It assists in setting up IDM using specified first and last names along with a generated serial key.
 
